@@ -27,7 +27,7 @@
 }
 
 #img {
-    height: 210px;
+    height: 150px;
 }
 
 #contact {
@@ -45,11 +45,13 @@
     border: 0;
 }
 
-#leijpg {
-    width: 250px;
+#dp {
+    width: 200px;
+}
+
 }
 
 #tls {
-    width: 250px;
-    height: 250x;
+    width: 200px;
+    height: 200x;
 }
