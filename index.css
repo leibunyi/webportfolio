@@ -1,0 +1,46 @@
+/*CSS Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav-bar {
+    background-color: #000080;
+}
+
+#landing {
+    background-color: #FFF8DC;
+}
+
+#projects {
+    background-color: #B0E0E6;
+}
+
+.card {
+    width: 18rem;
+    background-color: #00BFFF;
+}
+
+.card-body {
+    color: white;
+}
+
+.img {
+    height: 210px;
+}
+
+#contact {
+    background-color: #FFF5EE;
+}
+
+#imgs {
+    height: 50px;
+    width: 50px;
+}
+
+.map-frame {
+    width: 600px;
+    height: 450px;
+    border: 0;
+}
